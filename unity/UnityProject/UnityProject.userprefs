@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/scripts/MovingPersonController.cs">
+    <Files>
+      <File FileName="Assets/Resources/scripts/GameDelegate.cs" Line="36" Column="1" />
+      <File FileName="Assets/Resources/scripts/TerrainManager.cs" Line="188" Column="19" />
+      <File FileName="Assets/Resources/scripts/MovingPersonController.cs" Line="103" Column="40" />
+      <File FileName="Assets/Resources/scripts/UnityInputManager.cs" Line="21" Column="68" />
+      <File FileName="Assets/Resources/scripts/ObstacleControll.cs" Line="89" Column="3" />
+      <File FileName="Assets/Resources/scripts/GUIController.cs" Line="31" Column="28" />
+      <File FileName="Assets/Resources/scripts/Common.cs" Line="11" Column="3" />
+      <File FileName="Assets/Resources/scripts/Singleton.cs" Line="17" Column="26" />
+      <File FileName="Assets/Resources/scripts/CoinController.cs" Line="14" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
